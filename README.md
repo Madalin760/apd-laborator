@@ -14,3 +14,5 @@ Acest proiect folosește următorii parametri de configurare (definiți în `src
 * **SERIAL_BAUD (9600):** Setează viteza de comunicare a portului serial pentru transmiterea datelor către calculator.
 * **LED_PIN (13):** Specifică pinul digital utilizat pentru LED-ul de stare al plăcii.
 * **BUTTON_PIN (2):** Specifică pinul digital la care este conectat butonul pentru pornirea/oprirea achiziției de date.
+
+Comunicație serială la 19200 baud
