@@ -4,7 +4,7 @@
 #define LED_PIN 13 // LED de stare
 
 #define SENSOR_PIN A0 // intrarea analogică a senzorului
-#define SAMPLE_PERIOD_MS 500 // perioada de eșantionare (ms)
+#define SAMPLE_PERIOD_MS 5000 // economie de energie (baterie)
 #define SERIAL_BAUD 9600 // viteza portului serial
 
 #endif
